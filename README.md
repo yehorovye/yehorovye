@@ -1,4 +1,8 @@
-# Elisiei Yehorovye
+# Elisiei Yehorov *~yehorovye*
+
+*backend developer*
+
+blog available at: https://elisiei.obiente.com
 
 <!--START_SECTION:waka-->
 
