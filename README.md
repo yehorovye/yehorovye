@@ -6,7 +6,7 @@ blog available at: https://elisiei.xyz
 
 <!--START_SECTION:waka-->
 
-```rust
+```haskell
 From: 21 May 2023 - To: 27 June 2025
 
 Total Time: 522 hrs 20 mins
