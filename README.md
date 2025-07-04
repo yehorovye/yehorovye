@@ -1,6 +1,6 @@
 # Elisiei Yehorov *~yehorovye*
 
-*backend developer*
+*systems technician & software engineer*
 
 blog available at: https://elisiei.xyz
 
