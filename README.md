@@ -7,16 +7,16 @@ blog available at: https://elisiei.xyz
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 21 May 2023 - To: 07 July 2025
+From: 21 May 2023 - To: 08 July 2025
 
-Total Time: 544 hrs 18 mins
+Total Time: 546 hrs 17 mins
 
-TypeScript       271 hrs 14 mins ▰▰▰▰▰▰▰▰▰▰▰══════════════   44.65 %
-Rust             158 hrs 41 mins ▰▰▰▰▰▰▰══════════════════   26.12 %
-Other            63 hrs 11 mins  ▰▰▰══════════════════════   10.40 %
-Go               13 hrs 16 mins  ▰════════════════════════   02.18 %
-Nix              10 hrs 8 mins   ═════════════════════════   01.67 %
-HTML             9 hrs 39 mins   ═════════════════════════   01.59 %
+TypeScript       271 hrs 14 mins ▰▰▰▰▰▰▰▰▰▰▰══════════════   44.51 %
+Rust             158 hrs 41 mins ▰▰▰▰▰▰▰══════════════════   26.04 %
+Other            63 hrs 11 mins  ▰▰▰══════════════════════   10.37 %
+Go               14 hrs 52 mins  ▰════════════════════════   02.44 %
+Nix              10 hrs 14 mins  ═════════════════════════   01.68 %
+HTML             9 hrs 39 mins   ═════════════════════════   01.58 %
 ```
 
 <!--END_SECTION:waka-->
