@@ -1,3 +1,5 @@
+> i am sorry, g4, socram and everyone.
+
 # Elisiei Yehorov *~yehorovye*
 
 *systems technician & software engineer*
